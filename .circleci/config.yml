@@ -316,6 +316,9 @@ workflows:
   heroku_cli:
     jobs:
       - yarn:
+          context:
+            # - org-global
+            - functions-cli
           filters: &always_run_filter
             tags:
               only: /^v.*/
