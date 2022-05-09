@@ -30,7 +30,7 @@
     "@oclif/dev-cli": "^1.21.3",
     "@oclif/plugin-legacy": "^1.2.0",
     "chai": "^4.2.0",
-    "estraverse": "^4.2.0",
+    "estraverse": "^5.3.0",
     "mocha": "^5.1.1",
     "nock": "^9.2.5",
     "sinon": "^1.17.6",
