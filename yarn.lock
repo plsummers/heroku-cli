@@ -4514,10 +4514,10 @@ filesize@^3.6.1:
   resolved "https://registry.yarnpkg.com/filesize/-/filesize-3.6.1.tgz#090bb3ee01b6f801a8a8be99d31710b3422bb317"
   integrity sha512-7KjR1vv6qnicaPMi1iiTcI85CyYwRO/PSFCu6SvqL8jN2Wjt/NIYQTFtFs7fSDCYOstUkEWIQGFUg5YZQfjlcg==
 
-filesize@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/filesize/-/filesize-4.0.0.tgz#edd45b16247c815ac3bc7265c34cf3dab6b41234"
-  integrity sha512-IGrOTisl83FmbpiL5KCpfF7+6CRcmndNaWxwYWcnSqXtoNUhVO+1l8rKK4GVE7A8f4fEDkSocS9X6+eXHkEhGA==
+filesize@^9.0.2:
+  version "9.0.2"
+  resolved "https://registry.yarnpkg.com/filesize/-/filesize-9.0.2.tgz#920cab21d45b3be9828b6a2d3970ac83d4e1d10e"
+  integrity sha512-54L30Kx9BMxvF+AdOPve5OOQa4jbwbCn8c22XUV9SNnL6RhidUj/NEeRa7orQHILBPZ9ImBXj+RWsWn99weK+g==
 
 fill-keys@^1.0.2:
   version "1.0.2"
